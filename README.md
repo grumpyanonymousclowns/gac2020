@@ -1,1 +1,12 @@
-# gac2020
+# master plan gac
+
+## purpose
+
+## intructions
+
+## testing
+
+## deploying
+
+## credits
+

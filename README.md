@@ -2,6 +2,8 @@
 
 ## purpose
 
+get the team user stories and rubber points
+
 ## intructions
 
 ## testing

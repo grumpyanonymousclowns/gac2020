@@ -10,6 +10,8 @@ be careful with your coments!
 
 ## testing
 
+run prolog
+rin intro
 run phase 0 to 4
 
 ## deploying

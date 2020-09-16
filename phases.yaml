@@ -1,5 +1,7 @@
 secrets:
   prolog:
+    rebus
+    word
   intro:
   phase0:
     qr-code

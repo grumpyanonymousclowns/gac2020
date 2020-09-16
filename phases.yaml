@@ -2,6 +2,7 @@ secrets:
   prolog:
   intro:
   phase0:
+    qr-code
   phase1:
   phase2:
   phase3:

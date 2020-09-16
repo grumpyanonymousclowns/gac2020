@@ -14,5 +14,8 @@ run phase 0 to 4
 
 ## deploying
 
-## credits
+## license
+MIT, do what you want
 
+## credits
+- http://whatthecommit.com/

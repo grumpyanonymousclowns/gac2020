@@ -6,7 +6,7 @@ get the team user stories and rubber points
 
 ## intructions
 
-be careful with your coments
+be careful with your coments!
 
 ## testing
 

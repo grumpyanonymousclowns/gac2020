@@ -2,3 +2,8 @@ keep this content secret
 rewrite structure
 clean up files
 reorg structure
+create branch
+create security hint to customer
+fill bag with marbels
+go to party
+enjoy the weekend

@@ -6,6 +6,7 @@ secrets:
   phase0:
     qr-code
   phase1:
+    rome
   phase2:
   phase3:
   phase4:
